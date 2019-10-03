@@ -9,13 +9,7 @@ class MostPopularInt
     int array[] = {2, 1, 2, 3, 4, 2, 3, 1, 1, 1};
     int n = array.length;
 
-    //System.out.println("");
-
-    //String arr = Arrays.toString(array);
-
     System.out.println(getElement(array, n));
-
-    //System.out.println(arr);
   }
 
   static int getElement(int array[], int n)
